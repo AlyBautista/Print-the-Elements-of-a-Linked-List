@@ -1,1 +1,1 @@
-# Print-the-Elements-of-a-Linked-List
+The missing code was placed inside the printLinkedList function. I creates a loop starting from the head node, prints each node’s data using console.log, and moves to the next node until it reaches null. This completes the function to print all elements of the linked list.
